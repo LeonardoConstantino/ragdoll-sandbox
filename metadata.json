@@ -1,0 +1,6 @@
+{
+  "name": "Ragdoll Sandbox",
+  "description": "Interactive 2D physics sandbox with articulated 14-part ragdoll, procedural forces, customizable scenes, and tactile juice effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
